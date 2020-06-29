@@ -1,5 +1,5 @@
 # Predicting-the-Likelihood-of-E-Signing-a-Loan-based-on-Financial-History
-Prediction of customers who would be going to sign the loan application based on their financial History. Applied Logistic Regression, SVM Classifier and Random Forest to compare their accuracy. Random Forest gave the hisghest accuracy of 62%. 
+Prediction of customers who would be going to sign the loan application based on their financial History. Applied three classification models i.e. Logistic Regression, SVM and Random Forest to compare their accuracies. Random Forest gave the hisghest accuracy of 62%. 
 
 ### Dataset can be downloaded from https://www.kaggle.com/aniruddhachoudhury/esigning-of-loan-based-on-financial-history
 

@@ -11,7 +11,7 @@ Prediction of customers who would be going to sign the loan application based on
 
 ### 1. Correlation of Numerical Columns with response variable
 
-![image](https://user-images.githubusercontent.com/37111089/85773950-018a8f00-b73c-11ea-8b6d-962768861aca.png)
+![image](https://user-images.githubusercontent.com/37111089/85990191-4732aa80-ba0f-11ea-8453-3a36ea4fe016.png)
 
 ### 2.  Distribution of data in all the columns of the dataset
 
